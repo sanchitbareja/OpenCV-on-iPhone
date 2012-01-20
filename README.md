@@ -1,3 +1,9 @@
+BELOW IS THE ORGINIAL README FILE FROM THE PROJECT I COPIED TO COMPILE OPENCV ON THE IPHONE.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Using OpenCV on iPhone
 ----------------------
 This source repository includes pre-compiled OpenCV library and headeres so that you can get started easily!
